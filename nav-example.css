@@ -23,3 +23,6 @@
  .main-nav .active a {
    color: #eee;            /* light gray */
  }
+ a {
+   text-decoration: none;
+ }
