@@ -1,0 +1,25 @@
+.main-nav {
+   height: 3em;            /* Make the navbar taller, easier to click */
+   background-color: #eee; /* light gray */
+ }
+
+ .main-nav a {
+   color: #4b8568;         /* dark green */
+ }
+
+ .main-nav ul {
+   list-style-type: none;  /* Hide the bullets */
+   display: flex;          /* Arrange horizontally, not vertically */
+ }
+
+ .main-nav li {
+   padding: 1em;           /* Add a little space around each link */
+ }
+
+ .main-nav .active {
+   background-color: #4b8568;  /* dark green */
+ }
+
+ .main-nav .active a {
+   color: #eee;            /* light gray */
+ }
