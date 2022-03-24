@@ -2,10 +2,6 @@ h1, p {
   background-color: #DDE0E3;    /* Light gray */
 }
 
-em, strong {
-  background-color: #B2D6FF;
-  display: inline;             /* This is the default for em and strong */
-}
 h1 {
   padding: 50px;
 }
@@ -35,16 +31,6 @@ p {
 }
 
 div {
-  color: #FFF;
-  background-color: #5995DA;
-  font-weight: bold;
-  padding: 20px;
-  text-align: center;
-  border: 2px solid #5D6063;
-  border-radius: 5px;
-}
-
-div {
   /* [Existing Declarations] */
   width: 200px;
 }
@@ -64,6 +50,10 @@ div {
 
 body {
   text-align: center;
+}
+
+p {
+  text-align: left;
 }
 
 div {
@@ -86,11 +76,10 @@ div {
 
 .button {
   color: #FFF;
-  background-color: #5995DA;    /* Blue */
+  background-color: #pink;    /* Blue */
   font-weight: bold;
   padding: 20px;
-  text-align: center;
-  border: 2px solid #5D6063;    /* Dark gray */
+  text-align: center;   /* Dark gray */
   border-radius: 5px;
 
   width: 200px;
