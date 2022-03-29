@@ -1,0 +1,120 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Didot", "Arial", sans-serif;
+  line-height: 1.5;
+
+}
+
+.content-container {
+  margin: 0 auto;
+  max-width: 50em;
+  padding: 4em 1em;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+
+h1, p {
+  background-color: #ffe0e7;    /* Light gray */
+}
+
+h1, h2 {
+  padding: 50px;
+  margin-top: 1em;
+  padding-top: 1em;
+}
+
+h1.nameheader {
+  margin-top: 0;
+}
+
+p {
+  padding: 20px 0 20px 10px;
+  /* margin-bottom: 50px;          /* Add this */ */
+}
+
+p {
+  text-align: left;
+}
+
+
+.button {
+  color: #FFF;
+  background-color: #a2c8eb;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  border-radius: 5px;
+  width: 200px;
+  margin: 20px auto;
+  display: inline-block;
+}
+
+a:link {
+  color: blue;
+  text-decoration: none;
+}
+.button a:visited {
+  color: yellow;
+}
+a:hover {
+  color: #ffe0e7;
+  text-decoration: none;
+}
+
+.topnav {
+  background-color: #333;
+  display: flex;
+  justify-content: flex-start;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  /* float: left; */
+  color: white;
+  /* text-align: center; */
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ffe0e7;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #a2c8eb;
+  color: white;
+}
+
+code,
+pre {
+  background: #eee;
+}
+
+code {
+  padding: 2px 4px;
+  vertical-align: text-bottom;
+}
+
+pre {
+  padding: 1em;
+}
+
+.hr {
+  color: black
+}
+
+.p1 {
+  text-align: center;
+}
