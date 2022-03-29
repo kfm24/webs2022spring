@@ -65,7 +65,7 @@ a:link {
   color: yellow;
 }
 a:hover {
-  color: #010203;
+  color: #ffe0e7;
   text-decoration: none;
 }
 
@@ -109,4 +109,8 @@ code {
 
 pre {
   padding: 1em;
+}
+
+.hr {
+  color: black
 }
