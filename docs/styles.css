@@ -47,10 +47,10 @@ p {
 
 .button {
   color: #FFF;
-  background-color: #ff355e;    /* Blue */
+  background-color: #ff355e;
   font-weight: bold;
   padding: 20px;
-  text-align: center;   /* Dark gray */
+  text-align: center;
   border-radius: 5px;
   width: 200px;
   margin: 20px auto;
@@ -87,7 +87,7 @@ a:hover {
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #ff355e;
+  background-color: #ffe0e7;
   color: black;
 }
 
