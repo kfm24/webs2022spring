@@ -22,7 +22,7 @@ body {
 }
 
 h1, p {
-  background-color: #DDE0E3;    /* Light gray */
+  background-color: #ffe0e7;    /* Light gray */
 }
 
 h1, h2 {
@@ -47,7 +47,7 @@ p {
 
 .button {
   color: #FFF;
-  background-color: pink;    /* Blue */
+  background-color: #ff355e;    /* Blue */
   font-weight: bold;
   padding: 20px;
   text-align: center;   /* Dark gray */
@@ -65,7 +65,7 @@ a:link {
   color: yellow;
 }
 a:hover {
-  color: aqua;
+  color: #010203;
   text-decoration: none;
 }
 
@@ -78,7 +78,7 @@ a:hover {
 /* Style the links inside the navigation bar */
 .topnav a {
   /* float: left; */
-  color: #f2f2f2;
+  color: white;
   /* text-align: center; */
   padding: 14px 16px;
   text-decoration: none;
@@ -87,13 +87,13 @@ a:hover {
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #ff355e;
   color: black;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #04AA6D;
+  background-color: #ff355e;
   color: white;
 }
 
