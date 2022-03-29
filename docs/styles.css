@@ -5,7 +5,7 @@
 }
 
 body {
-  font-family: "Helvetica", "Arial", sans-serif;
+  font-family: "Tahoma", "Arial", sans-serif;
   line-height: 1.5;
 
 }
@@ -95,4 +95,18 @@ a:hover {
 .topnav a.active {
   background-color: #04AA6D;
   color: white;
+}
+
+code,
+pre {
+  background: #eee;
+}
+
+code {
+  padding: 2px 4px;
+  vertical-align: text-bottom;
+}
+
+pre {
+  padding: 1em;
 }
