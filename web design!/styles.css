@@ -47,7 +47,7 @@ p {
 
 .button {
   color: #FFF;
-  background-color: #a2c8eb;
+  background-color: #f8b15d;
   font-weight: bold;
   padding: 20px;
   text-align: center;
@@ -93,7 +93,7 @@ a:hover {
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #a2c8eb;
+  background-color: #f8b15d;
   color: white;
 }
 
