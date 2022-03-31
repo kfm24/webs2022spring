@@ -119,8 +119,12 @@ pre {
   text-align: center;
 }
 
-.column-one-item {
+.row-one-item {
   text-align: right;
   width: 40em;
   height: 40em;
+}
+
+.contact {
+  list-style: none
 }
