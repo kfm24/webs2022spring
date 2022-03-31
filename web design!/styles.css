@@ -118,3 +118,9 @@ pre {
 .p1 {
   text-align: center;
 }
+
+.column-one-item {
+  text-align: right;
+  width: 40em;
+  height: 40em;
+}
