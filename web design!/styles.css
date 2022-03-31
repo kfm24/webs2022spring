@@ -120,9 +120,10 @@ pre {
 }
 
 .row-one-item {
-  text-align: right;
+  text-align: center;
   width: 40em;
-  height: 40em;
+  padding-bottom: 4em;
+  margin: none
 }
 
 .contact {
