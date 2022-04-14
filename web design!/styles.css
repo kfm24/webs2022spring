@@ -128,3 +128,15 @@ pre {
 .contact {
   list-style: none
 }
+
+.flexbox {
+    display: flex;
+    gap: 2em;
+    flex-direction: column;
+}
+
+.row-one-item {
+    display: flex;
+    justify-content: center;  /* main axis */
+    align-items: center;      /* cross-axis */
+}
